@@ -1,5 +1,4 @@
 google-generativeai
-textwrap
 numpy
 streamlit
 pandas
